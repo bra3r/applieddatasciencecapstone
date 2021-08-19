@@ -1,2 +1,2 @@
 #display the output
-prionmt("New Python File")
+print("New Python File")
